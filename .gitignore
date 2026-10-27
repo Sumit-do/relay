@@ -1,0 +1,23 @@
+# Binaries
+/bin/
+/relay
+/relay.exe
+/worker.exe
+
+# SQLite databases
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# Test and coverage output
+*.test
+*.out
+coverage.html
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
